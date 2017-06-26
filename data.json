@@ -1,0 +1,332 @@
+{
+    "databases": {
+        "mLab": {
+            "icon": "img/WbvEv6ay.png",
+            "skill": "56"
+        },
+        "MySQL": {
+            "icon": "img/logo-mysql-170x170.png",
+            "skill": "78"
+        },
+        "PostgreSQL": {
+            "icon": "img/ASOhU5xJ.png",
+            "skill": "78"
+        },
+        "MongoDB": {
+            "icon": "img/mX8rO3vw.png",
+            "skill": "70"
+        },
+        "ClearDB": {
+            "icon": "img/data_ok.png",
+            "skill": "62"
+        }
+    },
+    "languages/libraries/frameworks": {
+        "JavaScript": {
+            "icon": "img/javascript.jpeg",
+            "skill": "96"
+        },
+        "ES6": {
+            "icon": "img/16407404782_8b9c57eab3.jpg",
+            "skill": "96"
+        },
+        "Node.js": {
+            "icon": "img/nodejs-new-pantone-black.svg",
+            "skill": "92"
+        },
+        "CSS3": {
+            "icon": "img/8b61de4c84033266e15317a6eb9fda2d-css3.png",
+            "skill": "98"
+        },
+        "Less": {
+            "icon": "img/3538330.png",
+            "skill": "82"
+        },
+        "Bootstrap": {
+            "icon": "img/C9QJ7V3X.png",
+            "skill": "86"
+        },
+        "PHP": {
+            "icon": "img/php.png",
+            "skill": "88"
+        },
+        "jQuery": {
+            "icon": "img/jquery_avatar.png",
+            "skill": "90"
+        },
+        "Angular": {
+            "icon": "img/square.png",
+            "skill": "20"
+        },
+        "HTML5": {
+            "icon": "img/kEpgHiC9.png",
+            "skill": "96"
+        },
+        "Python": {
+            "icon": "img/pUBY5pVj.png",
+            "skill": "68"
+        },
+        "jQuery UI": {
+            "icon": "img/jqueryui_avatar_96.png",
+            "skill": "94"
+        },
+        "Sass": {
+            "icon": "img/jCR2zNJV.png",
+            "skill": "97"
+        },
+        "Express.js": {
+            "icon": "img/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67",
+            "skill": "89"
+        },
+        "Socket.IO": {
+            "icon": "img/vI0ZZlhZ.png",
+            "skill": "96"
+        },
+        "React Native": {
+            "icon": "img/OYIaJ1KK.png",
+            "skill": "90"
+        },
+        "jQuery Mobile": {
+            "icon": "img/80508321d8ce3ba8aa264380bb7eba33.png",
+            "skill": "94"
+        },
+        "PhoneGap": {
+            "icon": "img/NgaEDjHt.jpg",
+            "skill": "60"
+        },
+        "Electron": {
+            "icon": "img/XJRdVxx3.png",
+            "skill": "90"
+        },
+        "Cordova": {
+            "icon": "img/cordova_256.png",
+            "skill": "90"
+        },
+        "Three.js": {
+            "icon": "img/threejs.png",
+            "skill": "92"
+        },
+        "C++": {
+            "icon": "img/icon-cplusplus.png",
+            "skill": "62"
+        },
+        "C#": {
+            "icon": "img/icon-csharp.png",
+            "skill": "68"
+        },
+        "Java": {
+            "icon": "img/icon-java.png",
+            "skill": "64"
+        }
+    },
+    "tools": {
+        "Slack": {
+            "icon": "img/349dc6f270e53cbe09cd05f6c032fc67.png",
+            "skill": "52"
+        },
+        "Atom": {
+            "icon": "img/QbnVqgX4.png",
+            "skill": "88"
+        },
+        "Google Apps": {
+            "icon": "img/-23z8Il1.png",
+            "skill": "82"
+        },
+        "Sequel Pro": {
+            "icon": "img/3ab6a1576435ff6c20e3f2694965bbf8.png",
+            "skill": "70"
+        },
+        "Sublime Text": {
+            "icon": "img/SublimeText_Master_012312_icon.png",
+            "skill": "78"
+        },
+        "VirtualBox": {
+            "icon": "img/vbox_94px.png",
+            "skill": "90"
+        },
+        "Xcode": {
+            "icon": "img/xcode.png",
+            "skill": "88"
+        },
+        "Android Studio": {
+            "icon": "img/AyreX9yf.jpeg",
+            "skill": "78"
+        },
+        "Notepad++": {
+            "icon": "img/logo.png",
+            "skill": "82"
+        },
+        "Tower": {
+            "icon": "img/jiDIZ8-s.png",
+            "skill": "75"
+        },
+        "Photoshop": {
+            "icon": "img/photoshop@2x.png",
+            "skill": "70"
+        },
+        "Sketch": {
+            "icon": "img/500px-Sketch_logo_frame.svg.png",
+            "skill": "84"
+        },
+        "Dropbox": {
+            "icon": "img/cbe630c29a62e283cef31afc5c4471da.png",
+            "skill": "90"
+        },
+        "Git": {
+            "icon": "img/git.png",
+            "skill": "90"
+        },
+        "CodeMirror": {
+            "icon": "img/E_fCaAi6.png",
+            "skill": "88"
+        },
+        "Brackets": {
+            "icon": "img/brackets_512.png",
+            "skill": "90"
+        },
+        "Mongotron": {
+            "icon": "img/logo.png",
+            "skill": "70"
+        },
+        "Parallels Desktop": {
+            "icon": "img/Parallels_Logo-1200x266.png",
+            "skill": "70"
+        },
+        "SSH": {
+            "icon": "img/ssh.png",
+            "skill": "90"
+        },
+        "Homebrew": {
+            "icon": "img/homebrew-256x256.png",
+            "skill": "90"
+        },
+        "npm": {
+            "icon": "img/lejvzrnlpb308aftn31u.png",
+            "skill": "90"
+        },
+        "Craft CMS": {
+            "icon": "img/ikJdiVZj.jpeg",
+            "skill": "80"
+        },
+        "TLS": {
+            "icon": "img/tls1.png",
+            "skill": "75"
+        },
+        "Twig": {
+            "icon": "img/twig-php-template-framework-1.png",
+            "skill": "85"
+        },
+        "RegEx": {
+            "icon": "img/CZx0dgG.jpg",
+            "skill": "88"
+        },
+        "AJAX": {
+            "icon": "img/v12-1-AJAX_logo_by_gengns_svg.png",
+            "skill": "94"
+        },
+        "JSON": {
+            "icon": "img/json-logo.png",
+            "skill": "98"
+        },
+        "Raspberry Pi": {
+            "icon": "img/Raspi-PGB001.png",
+            "skill": "82"
+        },
+        "WebRTC": {
+            "icon": "img/UUookuw.png",
+            "skill": "94"
+        },
+        "WebSockets": {
+            "icon": "img/HTML5_Connectivity_512.png",
+            "skill": "90"
+        },
+        "Apache": {
+            "icon": "img/fab.os.logo.apache.200.15011.jpg",
+            "skill": "84"
+        },
+        "Postico": {
+            "icon": "img/icon-postico.png",
+            "skill": "90"
+        },
+        "Coda2": {
+            "icon": "img/icon-coda.png",
+            "skill": "90"
+        },
+        "Unity": {
+            "icon": "img/icon-unity.png",
+            "skill": "70"
+        },
+        "Eclipse": {
+            "icon": "img/icon-eclipse.ico",
+            "skill": "62"
+        },
+        "VSCode": {
+            "icon": "img/icon-vscode.ico",
+            "skill": "90"
+        }
+    },
+    "platforms/services": {
+        "Amazon EC2": {
+            "icon": "img/amazon-ec2.png",
+            "skill": "30"
+        },
+        "Amazon S3": {
+            "icon": "img/amazon-s3.png",
+            "skill": "30"
+        },
+        "Heroku": {
+            "icon": "img/3wgIDj3j.png",
+            "skill": "90"
+        },
+        "MailChimp": {
+            "icon": "img/69XlPqVT.png",
+            "skill": "90"
+        },
+        "GitHub": {
+            "icon": "img/sBsvBbjY.png",
+            "skill": "90"
+        },
+        "Trello": {
+            "icon": "img/JiszgZdZ.png",
+            "skill": "52"
+        },
+        "Google Maps API": {
+            "icon": "img/cwzjzCMU.png",
+            "skill": "70"
+        },
+        "Stack Overflow": {
+            "icon": "img/apple-touch-icon.png",
+            "skill": "56"
+        }
+    },
+    "operating systems": {
+        "Linux Ubuntu": {
+            "icon": "img/cof_orange_hex.jpg",
+            "skill": "82"
+        },
+        "Linux Debian": {
+            "icon": "img/vd4gAekh.png",
+            "skill": "82"
+        },
+        "Linux CentOS": {
+            "icon": "img/8293876400_1a5f90d715.jpg",
+            "skill": "60"
+        },
+        "Linux Mint": {
+            "icon": "img/kxYj8-Wg.png",
+            "skill": "30"
+        },
+        "Linux Arch": {
+            "icon": "img/Archlinux-vert-dark.svg",
+            "skill": "70"
+        },
+        "Windows": {
+            "icon": "img/546",
+            "skill": "95"
+        },
+        "Mac OS X": {
+            "icon": "img/862px-OS_X-Logo.svg.png",
+            "skill": "95"
+        }
+    }
+}

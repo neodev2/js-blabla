@@ -1,0 +1,59 @@
+body {
+	text-align: center;
+	font-size: 13.4px;
+	font-family: arial;
+	color: rgb(68, 68, 68);
+	background: white;
+}
+
+.item {
+    position: relative;
+    display: inline-block;
+    margin: 4.6px 6.6px;
+    width: 38px;
+}
+.item .icon {
+    position: relative;
+    height: 38px;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 0 1px #9a9a9a;
+}
+.item img {
+    display: block;
+    position: absolute;
+    left: -9999px;
+    right: -9999px;
+    top: -9999px;
+    bottom: -9999px;
+    margin: auto;
+    max-width: 100%;
+}
+.item .skill {
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    width: 82%;
+    height: 12%;
+    overflow: hidden;
+    background: white;
+    transform: translateX(-50%);
+    border-radius: 3px;
+    box-shadow: 0 0 1px #9a9a9a;
+}
+.item .percentage {
+    height: 100%;
+    background: #00d800;
+}
+.item small {
+    display: block;
+    position: relative;
+    left: 50%;
+    margin-top: 6%;
+    width: 131%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #808080;
+    transform: translateX(-50%);
+}
