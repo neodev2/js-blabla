@@ -1,9 +1,12 @@
+var json = {};
+
 var xhr = new XMLHttpRequest();
 xhr.open('GET', 'data.json', true);
 xhr.responseType = 'json';
 xhr.onload = function() {
     if (xhr.status == 200) {
-        sortBySkillAndCreateDOMStructure(xhr.response);
+        json = xhr.response;
+        sortBySkillAndCreateDOMStructure(json);
     }
 };
 xhr.send();
@@ -33,4 +36,13 @@ function sortBySkillAndCreateDOMStructure(data){
             '</div>';
         }
     }
+}
+
+var items = document.querySelectorAll('.item');
+for(let i=0; i<items.length; i++){
+    items[i].innerHTML +=
+    '<div class="controls-edit">'+
+        '<div class="increase">+</div>'+
+        '<div class="decrease">-</div>'+
+    '</div>';
 }
