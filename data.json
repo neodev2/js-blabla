@@ -10,7 +10,7 @@
         },
         "PostgreSQL": {
             "icon": "img/ASOhU5xJ.png",
-            "skill": "78"
+            "skill": "79"
         },
         "MongoDB": {
             "icon": "img/mX8rO3vw.png",
@@ -24,19 +24,19 @@
     "languages/libraries/frameworks": {
         "JavaScript": {
             "icon": "img/javascript.jpeg",
-            "skill": "96"
+            "skill": "97"
         },
         "ES6": {
             "icon": "img/16407404782_8b9c57eab3.jpg",
-            "skill": "96"
+            "skill": "97"
         },
         "Node.js": {
             "icon": "img/nodejs-new-pantone-black.svg",
-            "skill": "92"
+            "skill": "93"
         },
         "CSS3": {
             "icon": "img/8b61de4c84033266e15317a6eb9fda2d-css3.png",
-            "skill": "98"
+            "skill": "99"
         },
         "Less": {
             "icon": "img/3538330.png",
@@ -48,7 +48,7 @@
         },
         "PHP": {
             "icon": "img/php.png",
-            "skill": "88"
+            "skill": "89"
         },
         "jQuery": {
             "icon": "img/jquery_avatar.png",
@@ -60,11 +60,11 @@
         },
         "HTML5": {
             "icon": "img/kEpgHiC9.png",
-            "skill": "96"
+            "skill": "97"
         },
         "Python": {
             "icon": "img/pUBY5pVj.png",
-            "skill": "68"
+            "skill": "69"
         },
         "jQuery UI": {
             "icon": "img/jqueryui_avatar_96.png",
@@ -108,15 +108,19 @@
         },
         "C++": {
             "icon": "img/icon-cplusplus.png",
-            "skill": "62"
+            "skill": "63"
         },
         "C#": {
             "icon": "img/icon-csharp.png",
-            "skill": "68"
+            "skill": "69"
         },
         "Java": {
             "icon": "img/icon-java.png",
             "skill": "64"
+        },
+        "Passport.js": {
+            "icon": "img/DMrPoJtc.png",
+            "skill": "84"
         }
     },
     "tools": {
@@ -130,7 +134,7 @@
         },
         "Google Apps": {
             "icon": "img/-23z8Il1.png",
-            "skill": "82"
+            "skill": "83"
         },
         "Sequel Pro": {
             "icon": "img/3ab6a1576435ff6c20e3f2694965bbf8.png",
@@ -142,11 +146,11 @@
         },
         "VirtualBox": {
             "icon": "img/vbox_94px.png",
-            "skill": "90"
+            "skill": "91"
         },
         "Xcode": {
             "icon": "img/xcode.png",
-            "skill": "88"
+            "skill": "89"
         },
         "Android Studio": {
             "icon": "img/AyreX9yf.jpeg",
@@ -174,7 +178,7 @@
         },
         "Git": {
             "icon": "img/git.png",
-            "skill": "90"
+            "skill": "91"
         },
         "CodeMirror": {
             "icon": "img/E_fCaAi6.png",
@@ -202,7 +206,7 @@
         },
         "npm": {
             "icon": "img/lejvzrnlpb308aftn31u.png",
-            "skill": "90"
+            "skill": "91"
         },
         "Craft CMS": {
             "icon": "img/ikJdiVZj.jpeg",
@@ -214,19 +218,19 @@
         },
         "Twig": {
             "icon": "img/twig-php-template-framework-1.png",
-            "skill": "85"
+            "skill": "86"
         },
         "RegEx": {
             "icon": "img/CZx0dgG.jpg",
-            "skill": "88"
+            "skill": "89"
         },
         "AJAX": {
             "icon": "img/v12-1-AJAX_logo_by_gengns_svg.png",
-            "skill": "94"
+            "skill": "95"
         },
         "JSON": {
             "icon": "img/json-logo.png",
-            "skill": "98"
+            "skill": "99"
         },
         "Raspberry Pi": {
             "icon": "img/Raspi-PGB001.png",
@@ -250,11 +254,11 @@
         },
         "Coda2": {
             "icon": "img/icon-coda.png",
-            "skill": "90"
+            "skill": "91"
         },
         "Unity": {
             "icon": "img/icon-unity.png",
-            "skill": "70"
+            "skill": "71"
         },
         "Eclipse": {
             "icon": "img/icon-eclipse.ico",
@@ -262,7 +266,7 @@
         },
         "VSCode": {
             "icon": "img/icon-vscode.ico",
-            "skill": "90"
+            "skill": "91"
         }
     },
     "platforms/services": {
@@ -276,7 +280,7 @@
         },
         "Heroku": {
             "icon": "img/3wgIDj3j.png",
-            "skill": "90"
+            "skill": "91"
         },
         "MailChimp": {
             "icon": "img/69XlPqVT.png",
@@ -284,7 +288,7 @@
         },
         "GitHub": {
             "icon": "img/sBsvBbjY.png",
-            "skill": "90"
+            "skill": "91"
         },
         "Trello": {
             "icon": "img/JiszgZdZ.png",
@@ -296,13 +300,13 @@
         },
         "Stack Overflow": {
             "icon": "img/apple-touch-icon.png",
-            "skill": "56"
+            "skill": "57"
         }
     },
     "operating systems": {
         "Linux Ubuntu": {
             "icon": "img/cof_orange_hex.jpg",
-            "skill": "82"
+            "skill": "83"
         },
         "Linux Debian": {
             "icon": "img/vd4gAekh.png",
@@ -322,11 +326,11 @@
         },
         "Windows": {
             "icon": "img/546",
-            "skill": "95"
+            "skill": "96"
         },
         "Mac OS X": {
             "icon": "img/862px-OS_X-Logo.svg.png",
-            "skill": "95"
+            "skill": "96"
         }
     }
 }
