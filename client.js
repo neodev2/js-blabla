@@ -41,27 +41,30 @@ function sortBySkillAndCreateDOMStructure(data){
             '</div>';
         }
     }
+    bindControlsEdit();
 }
 
-var elems = document.querySelectorAll('.controls-edit > div');
-for(let i=0; i<elems.length; i++){
-    elems[i].addEventListener('click', function() {
-        var className = this.className;
-        var small = this.parentElement.parentElement.querySelector('small').innerHTML;
-        for(category in json){
-            for(key in json[category]){
-                if(key == small){
-                    if(className == 'increase'){
-                       json[category][small]['skill']++;
+function bindControlsEdit(){
+    var elems = document.querySelectorAll('.controls-edit > div');
+    for(let i=0; i<elems.length; i++){
+        elems[i].addEventListener('click', function() {
+            var className = this.className;
+            var small = this.parentElement.parentElement.querySelector('small').innerHTML;
+            for(category in json){
+                for(key in json[category]){
+                    if(key == small){
+                        if(className == 'increase'){
+                           json[category][small]['skill']++;
+                        }
+                        else if(className == 'decrease'){
+                           json[category][small]['skill']--;
+                        }
+                        sortBySkillAndCreateDOMStructure(json);
                     }
-                    else if(className == 'decrease'){
-                       json[category][small]['skill']--;
-                    }
-                    sortBySkillAndCreateDOMStructure(json);
                 }
             }
-        }
-    }, false);
+        }, false);
+    }
 }
 
 
