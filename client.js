@@ -12,6 +12,7 @@ xhr.onload = function() {
 xhr.send();
 
 function sortBySkillAndCreateDOMStructure(data){
+    document.body.innerHTML = '';
     for(let i in data){
         document.body.innerHTML += '<h3>'+i+'</h3>';
         // sort by skill
@@ -41,3 +42,26 @@ function sortBySkillAndCreateDOMStructure(data){
         }
     }
 }
+
+var elems = document.querySelectorAll('.controls-edit > div');
+for(let i=0; i<elems.length; i++){
+    elems[i].addEventListener('click', function() {
+        var className = this.className;
+        var small = this.parentElement.parentElement.querySelector('small').innerHTML;
+        for(category in json){
+            for(key in json[category]){
+                if(key == small){
+                    if(className == 'increase'){
+                       json[category][small]['skill']++;
+                    }
+                    else if(className == 'decrease'){
+                       json[category][small]['skill']--;
+                    }
+                    sortBySkillAndCreateDOMStructure(json);
+                }
+            }
+        }
+    }, false);
+}
+
+
