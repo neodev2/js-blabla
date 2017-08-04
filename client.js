@@ -33,16 +33,11 @@ function sortBySkillAndCreateDOMStructure(data){
                     '</div>'+
                 '</div>'+
                 '<small>'+array[i][2]+'</small>'+
+                '<div class="controls-edit">'+
+                    '<div class="increase">+</div>'+
+                    '<div class="decrease">-</div>'+
+                '</div>'+
             '</div>';
         }
     }
-}
-
-var items = document.querySelectorAll('.item');
-for(let i=0; i<items.length; i++){
-    items[i].innerHTML +=
-    '<div class="controls-edit">'+
-        '<div class="increase">+</div>'+
-        '<div class="decrease">-</div>'+
-    '</div>';
 }
