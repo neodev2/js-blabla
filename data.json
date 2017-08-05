@@ -126,15 +126,15 @@
     "tools": {
         "Slack": {
             "icon": "img/349dc6f270e53cbe09cd05f6c032fc67.png",
-            "skill": "52"
+            "skill": "48"
         },
         "Atom": {
             "icon": "img/QbnVqgX4.png",
-            "skill": "88"
+            "skill": "68"
         },
         "Google Apps": {
             "icon": "img/-23z8Il1.png",
-            "skill": "83"
+            "skill": "78"
         },
         "Sequel Pro": {
             "icon": "img/3ab6a1576435ff6c20e3f2694965bbf8.png",
@@ -146,15 +146,15 @@
         },
         "VirtualBox": {
             "icon": "img/vbox_94px.png",
-            "skill": "91"
+            "skill": "74"
         },
         "Xcode": {
             "icon": "img/xcode.png",
-            "skill": 81
+            "skill": "67"
         },
         "Android Studio": {
             "icon": "img/AyreX9yf.jpeg",
-            "skill": "78"
+            "skill": "58"
         },
         "Notepad++": {
             "icon": "img/logo.png",
@@ -162,31 +162,31 @@
         },
         "Tower": {
             "icon": "img/jiDIZ8-s.png",
-            "skill": "75"
+            "skill": "50"
         },
         "Photoshop": {
             "icon": "img/photoshop@2x.png",
-            "skill": "70"
+            "skill": "62"
         },
         "Sketch": {
             "icon": "img/500px-Sketch_logo_frame.svg.png",
-            "skill": "84"
+            "skill": "63"
         },
         "Dropbox": {
             "icon": "img/cbe630c29a62e283cef31afc5c4471da.png",
-            "skill": "90"
+            "skill": "80"
         },
         "Git": {
             "icon": "img/git.png",
-            "skill": 90
+            "skill": "78"
         },
         "CodeMirror": {
             "icon": "img/E_fCaAi6.png",
-            "skill": "88"
+            "skill": "76"
         },
         "Brackets": {
             "icon": "img/brackets_512.png",
-            "skill": "90"
+            "skill": "85"
         },
         "Mongotron": {
             "icon": "img/logo.png",
@@ -198,19 +198,19 @@
         },
         "SSH": {
             "icon": "img/ssh.png",
-            "skill": "90"
+            "skill": "76"
         },
         "Homebrew": {
             "icon": "img/homebrew-256x256.png",
-            "skill": "90"
+            "skill": "99"
         },
         "npm": {
             "icon": "img/lejvzrnlpb308aftn31u.png",
-            "skill": "91"
+            "skill": "99"
         },
         "Craft CMS": {
             "icon": "img/ikJdiVZj.jpeg",
-            "skill": "80"
+            "skill": "84"
         },
         "TLS": {
             "icon": "img/tls1.png",
@@ -218,11 +218,11 @@
         },
         "Twig": {
             "icon": "img/twig-php-template-framework-1.png",
-            "skill": "86"
+            "skill": "78"
         },
         "RegEx": {
             "icon": "img/CZx0dgG.jpg",
-            "skill": "69"
+            "skill": "73"
         },
         "AJAX": {
             "icon": "img/v12-1-AJAX_logo_by_gengns_svg.png",
@@ -234,19 +234,19 @@
         },
         "Raspberry Pi": {
             "icon": "img/Raspi-PGB001.png",
-            "skill": "82"
+            "skill": "64"
         },
         "WebRTC": {
             "icon": "img/UUookuw.png",
-            "skill": "94"
+            "skill": "72"
         },
         "WebSockets": {
             "icon": "img/HTML5_Connectivity_512.png",
-            "skill": "90"
+            "skill": "84"
         },
         "Apache": {
             "icon": "img/fab.os.logo.apache.200.15011.jpg",
-            "skill": "84"
+            "skill": "64"
         },
         "Postico": {
             "icon": "img/icon-postico.png",
@@ -254,11 +254,11 @@
         },
         "Coda2": {
             "icon": "img/icon-coda.png",
-            "skill": "91"
+            "skill": "87"
         },
         "Unity": {
             "icon": "img/icon-unity.png",
-            "skill": "71"
+            "skill": "56"
         },
         "Eclipse": {
             "icon": "img/icon-eclipse.ico",
@@ -266,7 +266,7 @@
         },
         "VSCode": {
             "icon": "img/icon-vscode.ico",
-            "skill": "91"
+            "skill": "72"
         }
     },
     "platforms/services": {
@@ -280,23 +280,23 @@
         },
         "Heroku": {
             "icon": "img/3wgIDj3j.png",
-            "skill": "91"
+            "skill": "74"
         },
         "MailChimp": {
             "icon": "img/69XlPqVT.png",
-            "skill": "90"
+            "skill": "74"
         },
         "GitHub": {
             "icon": "img/sBsvBbjY.png",
-            "skill": "91"
+            "skill": "72"
         },
         "Trello": {
             "icon": "img/JiszgZdZ.png",
-            "skill": "52"
+            "skill": "36"
         },
         "Google Maps API": {
             "icon": "img/cwzjzCMU.png",
-            "skill": "70"
+            "skill": "78"
         },
         "Stack Overflow": {
             "icon": "img/apple-touch-icon.png",
@@ -306,31 +306,31 @@
     "operating systems": {
         "Linux Ubuntu": {
             "icon": "img/cof_orange_hex.jpg",
-            "skill": "83"
+            "skill": "72"
         },
         "Linux Debian": {
             "icon": "img/vd4gAekh.png",
-            "skill": "82"
+            "skill": "74"
         },
         "Linux CentOS": {
             "icon": "img/8293876400_1a5f90d715.jpg",
-            "skill": "60"
+            "skill": "64"
         },
         "Linux Mint": {
             "icon": "img/kxYj8-Wg.png",
-            "skill": "30"
+            "skill": "62"
         },
         "Linux Arch": {
             "icon": "img/Archlinux-vert-dark.svg",
-            "skill": "70"
+            "skill": "64"
         },
         "Windows": {
             "icon": "img/546",
-            "skill": "96"
+            "skill": "80"
         },
         "Mac OS X": {
             "icon": "img/862px-OS_X-Logo.svg.png",
-            "skill": "96"
+            "skill": "81"
         }
     }
 }
