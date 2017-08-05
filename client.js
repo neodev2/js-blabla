@@ -33,7 +33,7 @@ function sortBySkillAndCreateDOMStructure(data){
                         '<div class="percentage" style="width: '+array[i][0]+'%; background: '+(array[i][0] >= 50? '#00d800' : '#ff5353')+';"></div>'+
                     '</div>'+
                 '</div>'+
-                '<small>'+array[i][2]+'</small>'+
+                '<small title="'+array[i][2]+'">'+array[i][2]+'</small>'+
                 '<input class="edit" type="text">'+
             '</div>';
         }
