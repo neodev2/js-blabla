@@ -34,10 +34,7 @@ function sortBySkillAndCreateDOMStructure(data){
                     '</div>'+
                 '</div>'+
                 '<small>'+array[i][2]+'</small>'+
-                '<div class="controls-edit">'+
-                    '<div class="increase">+</div>'+
-                    '<div class="decrease">-</div>'+
-                '</div>'+
+                '<input class="edit" type="text">'+
             '</div>';
         }
     }
@@ -45,21 +42,17 @@ function sortBySkillAndCreateDOMStructure(data){
 }
 
 function bindControlsEdit(){
-    var elems = document.querySelectorAll('.controls-edit > div');
+    var elems = document.querySelectorAll('.edit');
     for(let i=0; i<elems.length; i++){
-        elems[i].addEventListener('click', function() {
-            var className = this.className;
-            var small = this.parentElement.parentElement.querySelector('small').innerHTML;
-            for(category in json){
-                for(key in json[category]){
-                    if(key == small){
-                        if(className == 'increase'){
-                           json[category][small]['skill']++;
+        elems[i].addEventListener('keydown', function(e) {
+            if(e.keyCode == 13){
+                var small = this.parentElement.querySelector('small').innerHTML;
+                for(category in json){
+                    for(key in json[category]){
+                        if(key == small){
+                            json[category][small]['skill'] = this.value;
+                            sortBySkillAndCreateDOMStructure(json);
                         }
-                        else if(className == 'decrease'){
-                           json[category][small]['skill']--;
-                        }
-                        sortBySkillAndCreateDOMStructure(json);
                     }
                 }
             }
