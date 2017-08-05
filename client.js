@@ -1,3 +1,7 @@
+function scaleBetween(unscaledNum, minAllowed, maxAllowed, min, max) {
+	return (maxAllowed - minAllowed) * (unscaledNum - min) / (max - min) + minAllowed;
+}
+
 var json = {};
 
 var xhr = new XMLHttpRequest();
@@ -30,7 +34,8 @@ function sortBySkillAndCreateDOMStructure(data){
                 '<div class="icon">'+
                     '<img src="'+array[i][1]+'">'+
                     '<div class="skill">'+
-                        '<div class="percentage" style="width: '+array[i][0]+'%; background: '+(array[i][0] >= 50? '#00d800' : '#ff5353')+';"></div>'+
+                        //'<div class="percentage" style="width: '+array[i][0]+'%; background: '+(array[i][0] >= 50? '#00d800' : '#ff5353')+';"></div>'+
+                        '<div class="percentage" style="width: '+array[i][0]+'%; background: hsl('+scaleBetween(array[i][0], 0, 100, 0, 120)+', 100%, 42%);"></div>'+
                     '</div>'+
                 '</div>'+
                 '<small title="'+array[i][2]+'">'+array[i][2]+'</small>'+
