@@ -61,7 +61,10 @@ function bindControlsEdit(){
     var itemElems = document.querySelectorAll('.item');
     for(let i=0; i<itemElems.length; i++){
         itemElems[i].addEventListener('mouseenter', function() {
-            this.querySelector('.edit').style.display = 'block';
+            var editElem = this.querySelector('.edit');
+            var val = window.getComputedStyle(editElem, null).getPropertyValue("width");
+            editElem.value = val;
+            editElem.style.display = 'block';
         }, false);
         itemElems[i].addEventListener('mouseleave', function() {
             this.querySelector('.edit').style.display = 'none';
