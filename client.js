@@ -62,7 +62,8 @@ function bindControlsEdit(){
     for(let i=0; i<itemElems.length; i++){
         itemElems[i].addEventListener('mouseenter', function() {
             var editElem = this.querySelector('.edit');
-            var val = window.getComputedStyle(editElem, null).getPropertyValue("width");
+            var percentageElem = this.querySelector('.percentage');
+            var val = parseInt(window.getComputedStyle(percentageElem, null).getPropertyValue("width"));
             editElem.value = val;
             editElem.style.display = 'block';
         }, false);
