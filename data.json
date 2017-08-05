@@ -6,19 +6,19 @@
         },
         "MySQL": {
             "icon": "img/logo-mysql-170x170.png",
-            "skill": "78"
+            "skill": 67
         },
         "PostgreSQL": {
             "icon": "img/ASOhU5xJ.png",
-            "skill": "79"
+            "skill": 69
         },
         "MongoDB": {
             "icon": "img/mX8rO3vw.png",
-            "skill": "70"
+            "skill": 68
         },
         "ClearDB": {
             "icon": "img/data_ok.png",
-            "skill": "62"
+            "skill": 59
         }
     },
     "languages/libraries/frameworks": {
@@ -32,7 +32,7 @@
         },
         "Node.js": {
             "icon": "img/nodejs-new-pantone-black.svg",
-            "skill": "93"
+            "skill": 70
         },
         "CSS3": {
             "icon": "img/8b61de4c84033266e15317a6eb9fda2d-css3.png",
@@ -40,7 +40,7 @@
         },
         "Less": {
             "icon": "img/3538330.png",
-            "skill": "82"
+            "skill": 56
         },
         "Bootstrap": {
             "icon": "img/C9QJ7V3X.png",
@@ -48,7 +48,7 @@
         },
         "PHP": {
             "icon": "img/php.png",
-            "skill": "89"
+            "skill": 68
         },
         "jQuery": {
             "icon": "img/jquery_avatar.png",
@@ -56,15 +56,15 @@
         },
         "Angular": {
             "icon": "img/square.png",
-            "skill": "20"
+            "skill": 25
         },
         "HTML5": {
             "icon": "img/kEpgHiC9.png",
-            "skill": "97"
+            "skill": 94
         },
         "Python": {
             "icon": "img/pUBY5pVj.png",
-            "skill": "69"
+            "skill": 49
         },
         "jQuery UI": {
             "icon": "img/jqueryui_avatar_96.png",
@@ -76,27 +76,27 @@
         },
         "Express.js": {
             "icon": "img/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67",
-            "skill": "89"
+            "skill": 81
         },
         "Socket.IO": {
             "icon": "img/vI0ZZlhZ.png",
-            "skill": "96"
+            "skill": 90
         },
         "React Native": {
             "icon": "img/OYIaJ1KK.png",
-            "skill": "90"
+            "skill": 57
         },
         "jQuery Mobile": {
             "icon": "img/80508321d8ce3ba8aa264380bb7eba33.png",
-            "skill": "94"
+            "skill": 90
         },
         "PhoneGap": {
             "icon": "img/NgaEDjHt.jpg",
-            "skill": "60"
+            "skill": 58
         },
         "Electron": {
             "icon": "img/XJRdVxx3.png",
-            "skill": "90"
+            "skill": 89
         },
         "Cordova": {
             "icon": "img/cordova_256.png",
@@ -108,19 +108,19 @@
         },
         "C++": {
             "icon": "img/icon-cplusplus.png",
-            "skill": "63"
+            "skill": 47
         },
         "C#": {
             "icon": "img/icon-csharp.png",
-            "skill": "69"
+            "skill": 46
         },
         "Java": {
             "icon": "img/icon-java.png",
-            "skill": "64"
+            "skill": 48
         },
         "Passport.js": {
             "icon": "img/DMrPoJtc.png",
-            "skill": "72"
+            "skill": 68
         }
     },
     "tools": {
@@ -150,7 +150,7 @@
         },
         "Xcode": {
             "icon": "img/xcode.png",
-            "skill": "89"
+            "skill": 81
         },
         "Android Studio": {
             "icon": "img/AyreX9yf.jpeg",
@@ -178,7 +178,7 @@
         },
         "Git": {
             "icon": "img/git.png",
-            "skill": "91"
+            "skill": 90
         },
         "CodeMirror": {
             "icon": "img/E_fCaAi6.png",
