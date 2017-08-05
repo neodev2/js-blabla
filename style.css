@@ -61,32 +61,15 @@ body {
 
 
 
-.item:hover .controls-edit {
+.item:hover .edit {
     display: block;
 }
-.controls-edit {
+.edit {
     display: none;
     position: absolute;
     z-index: 99999;
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
-}
-.controls-edit > div {
-    position: absolute;
-    top: 42%;
-    width: 44%;
-    line-height: 182%;
-    background: linear-gradient(#fbfbfb,rgba(208, 206, 206, 0.88));
-    box-shadow: 0 0 1px 0px rgb(41, 41, 41);
-    transform: translateY(-50%);
-    border-radius: 3px;
-    cursor: pointer;
-}
-.increase {
-    right: 0;
-}
-.decrease {
-    left: 0;
+    height: 25%;
 }
