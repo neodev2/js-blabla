@@ -42,9 +42,9 @@ function sortBySkillAndCreateDOMStructure(data){
 }
 
 function bindControlsEdit(){
-    var elems = document.querySelectorAll('.edit');
-    for(let i=0; i<elems.length; i++){
-        elems[i].addEventListener('keydown', function(e) {
+    var editElems = document.querySelectorAll('.edit');
+    for(let i=0; i<editElems.length; i++){
+        editElems[i].addEventListener('keydown', function(e) {
             if(e.keyCode == 13){
                 var small = this.parentElement.querySelector('small').innerHTML;
                 for(category in json){
@@ -56,6 +56,15 @@ function bindControlsEdit(){
                     }
                 }
             }
+        }, false);
+    }
+    var itemElems = document.querySelectorAll('.item');
+    for(let i=0; i<itemElems.length; i++){
+        itemElems[i].addEventListener('mouseenter', function() {
+            this.querySelector('.edit').style.display = 'block';
+        }, false);
+        itemElems[i].addEventListener('mouseleave', function() {
+            this.querySelector('.edit').style.display = 'none';
         }, false);
     }
 }
