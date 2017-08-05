@@ -2,41 +2,41 @@
     "databases": {
         "mLab": {
             "icon": "img/WbvEv6ay.png",
-            "skill": "56"
+            "skill": "47"
         },
         "MySQL": {
             "icon": "img/logo-mysql-170x170.png",
-            "skill": 67
+            "skill": "64"
         },
         "PostgreSQL": {
             "icon": "img/ASOhU5xJ.png",
-            "skill": 69
+            "skill": "65"
         },
         "MongoDB": {
             "icon": "img/mX8rO3vw.png",
-            "skill": 68
+            "skill": "62"
         },
         "ClearDB": {
             "icon": "img/data_ok.png",
-            "skill": 59
+            "skill": "48"
         }
     },
     "languages/libraries/frameworks": {
         "JavaScript": {
             "icon": "img/javascript.jpeg",
-            "skill": "97"
+            "skill": "80"
         },
         "ES6": {
             "icon": "img/16407404782_8b9c57eab3.jpg",
-            "skill": "97"
+            "skill": "70"
         },
         "Node.js": {
             "icon": "img/nodejs-new-pantone-black.svg",
-            "skill": 70
+            "skill": "70"
         },
         "CSS3": {
             "icon": "img/8b61de4c84033266e15317a6eb9fda2d-css3.png",
-            "skill": "99"
+            "skill": "90"
         },
         "Less": {
             "icon": "img/3538330.png",
@@ -44,7 +44,7 @@
         },
         "Bootstrap": {
             "icon": "img/C9QJ7V3X.png",
-            "skill": "86"
+            "skill": "72"
         },
         "PHP": {
             "icon": "img/php.png",
@@ -52,35 +52,35 @@
         },
         "jQuery": {
             "icon": "img/jquery_avatar.png",
-            "skill": "90"
+            "skill": "96"
         },
         "Angular": {
             "icon": "img/square.png",
-            "skill": 25
+            "skill": "33"
         },
         "HTML5": {
             "icon": "img/kEpgHiC9.png",
-            "skill": 94
+            "skill": "89"
         },
         "Python": {
             "icon": "img/pUBY5pVj.png",
-            "skill": 49
+            "skill": "48"
         },
         "jQuery UI": {
             "icon": "img/jqueryui_avatar_96.png",
-            "skill": "94"
+            "skill": "71"
         },
         "Sass": {
             "icon": "img/jCR2zNJV.png",
-            "skill": "97"
+            "skill": "78"
         },
         "Express.js": {
             "icon": "img/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67",
-            "skill": 81
+            "skill": "77"
         },
         "Socket.IO": {
             "icon": "img/vI0ZZlhZ.png",
-            "skill": 90
+            "skill": "76"
         },
         "React Native": {
             "icon": "img/OYIaJ1KK.png",
@@ -88,7 +88,7 @@
         },
         "jQuery Mobile": {
             "icon": "img/80508321d8ce3ba8aa264380bb7eba33.png",
-            "skill": 90
+            "skill": "71"
         },
         "PhoneGap": {
             "icon": "img/NgaEDjHt.jpg",
@@ -96,31 +96,31 @@
         },
         "Electron": {
             "icon": "img/XJRdVxx3.png",
-            "skill": 89
+            "skill": "58"
         },
         "Cordova": {
             "icon": "img/cordova_256.png",
-            "skill": "90"
+            "skill": "76"
         },
         "Three.js": {
             "icon": "img/threejs.png",
-            "skill": "92"
+            "skill": "73"
         },
         "C++": {
             "icon": "img/icon-cplusplus.png",
-            "skill": 47
+            "skill": "38"
         },
         "C#": {
             "icon": "img/icon-csharp.png",
-            "skill": 46
+            "skill": "41"
         },
         "Java": {
             "icon": "img/icon-java.png",
-            "skill": 48
+            "skill": "34"
         },
         "Passport.js": {
             "icon": "img/DMrPoJtc.png",
-            "skill": 68
+            "skill": "58"
         }
     },
     "tools": {
@@ -222,7 +222,7 @@
         },
         "RegEx": {
             "icon": "img/CZx0dgG.jpg",
-            "skill": "89"
+            "skill": "69"
         },
         "AJAX": {
             "icon": "img/v12-1-AJAX_logo_by_gengns_svg.png",
@@ -262,7 +262,7 @@
         },
         "Eclipse": {
             "icon": "img/icon-eclipse.ico",
-            "skill": "62"
+            "skill": "50"
         },
         "VSCode": {
             "icon": "img/icon-vscode.ico",
