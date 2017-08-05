@@ -61,9 +61,6 @@ body {
 
 
 
-.item:hover .edit {
-    display: block;
-}
 .edit {
     display: none;
     position: absolute;
