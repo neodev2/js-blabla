@@ -2,29 +2,29 @@
     "databases": {
         "mLab": {
             "icon": "img/WbvEv6ay.png",
-            "skill": "47"
+            "skill": "51"
         },
         "MySQL": {
             "icon": "img/logo-mysql-170x170.png",
-            "skill": "64"
+            "skill": "68"
         },
         "PostgreSQL": {
             "icon": "img/ASOhU5xJ.png",
-            "skill": "65"
+            "skill": "67"
         },
         "MongoDB": {
             "icon": "img/mX8rO3vw.png",
-            "skill": "62"
+            "skill": "66"
         },
         "ClearDB": {
             "icon": "img/data_ok.png",
-            "skill": "48"
+            "skill": "54"
         }
     },
     "languages/libraries/frameworks": {
         "JavaScript": {
             "icon": "img/javascript.jpeg",
-            "skill": "80"
+            "skill": "86"
         },
         "ES6": {
             "icon": "img/16407404782_8b9c57eab3.jpg",
@@ -64,7 +64,7 @@
         },
         "Python": {
             "icon": "img/pUBY5pVj.png",
-            "skill": "48"
+            "skill": "52"
         },
         "jQuery UI": {
             "icon": "img/jqueryui_avatar_96.png",
@@ -84,7 +84,7 @@
         },
         "React Native": {
             "icon": "img/OYIaJ1KK.png",
-            "skill": 57
+            "skill": "54"
         },
         "jQuery Mobile": {
             "icon": "img/80508321d8ce3ba8aa264380bb7eba33.png",
@@ -120,21 +120,21 @@
         },
         "Passport.js": {
             "icon": "img/DMrPoJtc.png",
-            "skill": "58"
+            "skill": "51"
         }
     },
     "tools": {
         "Slack": {
             "icon": "img/349dc6f270e53cbe09cd05f6c032fc67.png",
-            "skill": "48"
+            "skill": "56"
         },
         "Atom": {
             "icon": "img/QbnVqgX4.png",
-            "skill": "68"
+            "skill": "74"
         },
         "Google Apps": {
             "icon": "img/-23z8Il1.png",
-            "skill": "78"
+            "skill": "76"
         },
         "Sequel Pro": {
             "icon": "img/3ab6a1576435ff6c20e3f2694965bbf8.png",
@@ -142,15 +142,15 @@
         },
         "Sublime Text": {
             "icon": "img/SublimeText_Master_012312_icon.png",
-            "skill": "78"
+            "skill": "74"
         },
         "VirtualBox": {
             "icon": "img/vbox_94px.png",
-            "skill": "74"
+            "skill": "76"
         },
         "Xcode": {
             "icon": "img/xcode.png",
-            "skill": "67"
+            "skill": "66"
         },
         "Android Studio": {
             "icon": "img/AyreX9yf.jpeg",
@@ -158,75 +158,75 @@
         },
         "Notepad++": {
             "icon": "img/logo(1).png",
-            "skill": "82"
+            "skill": "76"
         },
         "Tower": {
             "icon": "img/jiDIZ8-s.png",
-            "skill": "50"
+            "skill": "54"
         },
         "Photoshop": {
             "icon": "img/photoshop@2x.png",
-            "skill": "62"
+            "skill": "64"
         },
         "Sketch": {
             "icon": "img/500px-Sketch_logo_frame.svg.png",
-            "skill": "63"
+            "skill": "68"
         },
         "Dropbox": {
             "icon": "img/cbe630c29a62e283cef31afc5c4471da.png",
-            "skill": "80"
+            "skill": "60"
         },
         "Git": {
             "icon": "img/git.png",
-            "skill": "78"
+            "skill": "75"
         },
         "CodeMirror": {
             "icon": "img/E_fCaAi6.png",
-            "skill": "76"
+            "skill": "79"
         },
         "Brackets": {
             "icon": "img/brackets_512.png",
-            "skill": "85"
+            "skill": "80"
         },
         "Mongotron": {
             "icon": "img/logo.png",
-            "skill": "70"
+            "skill": "65"
         },
         "Parallels Desktop": {
             "icon": "img/Parallels_Logo-1200x266.png",
-            "skill": "70"
+            "skill": "67"
         },
         "SSH": {
             "icon": "img/ssh.png",
-            "skill": "76"
+            "skill": "74"
         },
         "Homebrew": {
             "icon": "img/homebrew-256x256.png",
-            "skill": "99"
+            "skill": "86"
         },
         "npm": {
             "icon": "img/lejvzrnlpb308aftn31u.png",
-            "skill": "99"
+            "skill": "79"
         },
         "Craft CMS": {
             "icon": "img/ikJdiVZj.jpeg",
-            "skill": "84"
+            "skill": "78"
         },
         "TLS": {
             "icon": "img/tls1.png",
-            "skill": "75"
+            "skill": "62"
         },
         "Twig": {
             "icon": "img/twig-php-template-framework-1.png",
-            "skill": "78"
+            "skill": "74"
         },
         "RegEx": {
             "icon": "img/CZx0dgG.jpg",
-            "skill": "73"
+            "skill": "78"
         },
         "AJAX": {
             "icon": "img/v12-1-AJAX_logo_by_gengns_svg.png",
-            "skill": "95"
+            "skill": "90"
         },
         "JSON": {
             "icon": "img/json-logo.png",
@@ -238,31 +238,31 @@
         },
         "WebRTC": {
             "icon": "img/UUookuw.png",
-            "skill": "72"
+            "skill": "78"
         },
         "WebSockets": {
             "icon": "img/HTML5_Connectivity_512.png",
-            "skill": "84"
+            "skill": "85"
         },
         "Apache": {
             "icon": "img/fab.os.logo.apache.200.15011.jpg",
-            "skill": "64"
+            "skill": "65"
         },
         "Postico": {
             "icon": "img/icon-postico.png",
-            "skill": "90"
+            "skill": "67"
         },
         "Coda2": {
             "icon": "img/icon-coda.png",
-            "skill": "87"
+            "skill": "89"
         },
         "Unity": {
             "icon": "img/icon-unity.png",
-            "skill": "56"
+            "skill": "67"
         },
         "Eclipse": {
             "icon": "img/icon-eclipse.ico",
-            "skill": "50"
+            "skill": "52"
         },
         "VSCode": {
             "icon": "img/icon-vscode.ico",
@@ -272,19 +272,19 @@
     "platforms/services": {
         "Amazon EC2": {
             "icon": "img/amazon-ec2.png",
-            "skill": "30"
+            "skill": "20"
         },
         "Amazon S3": {
             "icon": "img/amazon-s3.png",
-            "skill": "30"
+            "skill": "20"
         },
         "Heroku": {
             "icon": "img/3wgIDj3j.png",
-            "skill": "74"
+            "skill": "72"
         },
         "MailChimp": {
             "icon": "img/69XlPqVT.png",
-            "skill": "74"
+            "skill": "70"
         },
         "GitHub": {
             "icon": "img/sBsvBbjY.png",
@@ -292,7 +292,7 @@
         },
         "Trello": {
             "icon": "img/JiszgZdZ.png",
-            "skill": "36"
+            "skill": "18"
         },
         "Google Maps API": {
             "icon": "img/cwzjzCMU.png",
@@ -300,29 +300,29 @@
         },
         "Stack Overflow": {
             "icon": "img/apple-touch-icon.png",
-            "skill": "57"
+            "skill": "64"
         }
     },
     "operating systems": {
         "Linux Ubuntu": {
             "icon": "img/cof_orange_hex.jpg",
-            "skill": "72"
+            "skill": "68"
         },
         "Linux Debian": {
             "icon": "img/vd4gAekh.png",
-            "skill": "74"
+            "skill": "66"
         },
         "Linux CentOS": {
             "icon": "img/8293876400_1a5f90d715.jpg",
-            "skill": "64"
+            "skill": "62"
         },
         "Linux Mint": {
             "icon": "img/kxYj8-Wg.png",
-            "skill": "62"
+            "skill": "60"
         },
         "Linux Arch": {
             "icon": "img/Archlinux-vert-dark.svg",
-            "skill": "64"
+            "skill": "61"
         },
         "Windows": {
             "icon": "img/546",
