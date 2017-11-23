@@ -121,6 +121,10 @@
         "Passport.js": {
             "icon": "img/DMrPoJtc.png",
             "skill": "51"
+        },
+        "Bash": {
+            "icon": "img/bash.png",
+            "skill": "66"
         }
     },
     "Softwares/Technologies/Tools": {
