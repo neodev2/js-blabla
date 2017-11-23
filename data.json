@@ -275,6 +275,10 @@
         "Wordpress": {
             "icon": "img/wordpress.png",
             "skill": "84"
+        },
+        "Qt Creator": {
+            "icon": "img/qtcreator.png",
+            "skill": "61"
         }
     },
     "platforms/services": {
