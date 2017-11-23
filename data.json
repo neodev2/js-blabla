@@ -125,6 +125,10 @@
         "Bash": {
             "icon": "img/bash.png",
             "skill": "66"
+        },
+        "PyQt": {
+            "icon": "img/pyqt.png",
+            "skill": "65"
         }
     },
     "Softwares/Technologies/Tools": {
