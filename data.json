@@ -1,5 +1,5 @@
 {
-    "databases": {
+    "Databases": {
         "mLab": {
             "icon": "img/WbvEv6ay.png",
             "skill": "51"
@@ -21,7 +21,7 @@
             "skill": "54"
         }
     },
-    "languages/libraries/frameworks": {
+    "Languages/Libraries/Frameworks": {
         "JavaScript": {
             "icon": "img/javascript.jpeg",
             "skill": "86"
@@ -123,7 +123,7 @@
             "skill": "51"
         }
     },
-    "tools": {
+    "Softwares/Technologies/Tools": {
         "Slack": {
             "icon": "img/349dc6f270e53cbe09cd05f6c032fc67.png",
             "skill": "56"
@@ -267,6 +267,10 @@
         "VSCode": {
             "icon": "img/icon-vscode.ico",
             "skill": "72"
+        },
+        "Wordpress": {
+            "icon": "img/wordpress.png",
+            "skill": "84"
         }
     },
     "platforms/services": {
@@ -303,7 +307,7 @@
             "skill": "64"
         }
     },
-    "operating systems": {
+    "Operating Systems": {
         "Linux Ubuntu": {
             "icon": "img/cof_orange_hex.jpg",
             "skill": "68"
